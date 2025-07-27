@@ -1,5 +1,4 @@
-    ```
-    .env
-    ```
+`.env`
+    
 
 *   It might also contain other entries like `node_modules/` which is good.
